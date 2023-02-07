@@ -7,6 +7,7 @@ Este projeto consiste em uma aplicação web de uma calculadora simples, constru
 
 ## Deploy
 
+<a href="https://calculator-bora-codar.vercel.app/">Clique aqui para entrar no site</a>
 
 ## Preview
 
