@@ -1,7 +1,7 @@
 
 # Calculadora em ReactJS
 
-## BoraCodar @Rocketeat
+## BoraCodar @Rocketseat
 
 Este projeto consiste em uma aplicação web de uma calculadora simples, construída com ReactJS.
 
