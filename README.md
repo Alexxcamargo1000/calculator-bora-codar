@@ -10,7 +10,7 @@ Este projeto consiste em uma aplicação web de uma calculadora simples, constru
 
 ## Preview
 
-<img scr="./src/assets/calc#boracodar.png" alt="imagem do site" width="50%"/>
+<img scr="https://i.imgur.com/ZS1mtKP.png" alt="imagem do site" width="50%"/>
 
 
 ## Instalação
