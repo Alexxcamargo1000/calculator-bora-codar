@@ -10,7 +10,7 @@ Este projeto consiste em uma aplicação web de uma calculadora simples, constru
 
 ## Preview
 
-<img scr="https://i.imgur.com/ZS1mtKP.png" alt="imagem do site" width="50%"/>
+![imagem do site](https://i.imgur.com/ZS1mtKP.png)
 
 
 ## Instalação
