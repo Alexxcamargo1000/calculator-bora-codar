@@ -1,16 +1,17 @@
 
 # Calculadora em ReactJS
 
-## BoraCodar @Rocketeat
+## BoraCodar @Rocketseat
 
 Este projeto consiste em uma aplicação web de uma calculadora simples, construída com ReactJS.
 
 ## Deploy
 
+<a href="https://calculator-bora-codar.vercel.app/">Clique aqui para entrar no site</a>
 
 ## Preview
 
-<img scr="./src/assets/calc#boracodar.png" alt="imagem do site" width="50%"/>
+![imagem do site](https://i.imgur.com/ZS1mtKP.png)
 
 
 ## Instalação
